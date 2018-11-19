@@ -1,0 +1,500 @@
+   21  pwd
+   22  cd Projects/
+   23  ls PHP*
+   24  rm -fr PHPTrialNError/
+   25  cd PHPBehatSeleniumExamples2/
+   26  ls
+   27  cat composer.json
+   28  cp composer.json ../PHPBehat
+   29  cd ..
+   30  cd PHPBehat
+   31  ls
+   32  composer install
+   33  cd ..
+   34  ls PHP*
+   35  CD PHPBehatSeleniumExamples2/
+   36  pwd
+   37  cd PHPBehatSeleniumExamples2/
+   38  cp selenium-server-standalone-2.53.0.jar ../PHPBehat
+   39  cp behat.yml ../PHPBehat
+   40  cd ..
+   41  cd PHPBehat
+   42  ls
+   43  cat behat.yml
+   44  pwd
+   45  cat composer.json 
+   46  pwd
+   47  ls
+   48  cat behat.yml 
+   49  vim behat.yml 
+   50  ./bin/behat --init
+   51  ls
+   52  cd features/
+   53  ls
+   54  cd bootstrap/
+   55  ls
+   56  cat FeatureContext.php 
+   57  cd ..
+   58  pwd
+   59  cd ..
+   60  pwd
+   61  cd ..
+   62  ls
+   63  PHPBehatSeleniumExamples2/
+   64  ls
+   65  cd PHPBehatSeleniumExamples2/
+   66  ls
+   67  cd features/
+   68  ls
+   69  cat NameInputForm.feature 
+   70  cd ..
+   71  cd ..
+   72  ls
+   73  cd PHPExamplesBehatHelloWorldOld/
+   74  ls
+   75  cat behat.yml 
+   76  cat composer.json 
+   77  ls
+   78  cd features/
+   79  ls
+   80  cat behatExample1.feature 
+   81  ls
+   82  cd ..
+   83  pwd
+   84  ./bin/behat 
+   85  pwd
+   86  ls
+   87  cat FormExample1PhpScript.php 
+   88  cd ..
+   89  ls -al PHP*
+   90  ls -al PHP*
+   91  ls  PHP*
+   92  mv PHPExamples2 PHPLanguageExamplesClassesEtc
+   93  cd PHPBehatSeleniumExamples2/
+   94  LS
+   95  ls
+   96  cd features/
+   97  ls
+   98  cat NameInputForm.feature 
+   99  cd ..
+  100  pwd
+  101  cd ..
+  102  mv PHPBehatSeleniumExamples2/ PHPBehatPageObjectOld
+  103  ls PHP*
+  104  cd PHPBehat
+  105  LS
+  106  ls
+  107  ./bin/behat
+  108  ls
+  109  ls
+  110  cd features/
+  111  vim example.feature
+  112  ./bin/behat
+  113  cd ..
+  114  ./bin/behat
+  115  pwd
+  116  cd ..
+  117  ls PHP*
+  118  cd PHPExamplesBehatHelloWorldOld/
+  119  ls
+  120  cd features/
+  121  ls
+  122  cat behatExample1.feature 
+  123  ls
+  124  ls
+  125  cd ..
+  126  ls
+  127  cd features/
+  128  ls
+  129  cd ..
+  130  pwd
+  131  cd ..
+  132  ls
+  133  cd PHPBehatPageObjectOld/
+  134  ls
+  135  cd features/
+  136  ls
+  137  cd ..
+  138  cd steps/
+  139  ls
+  140  cat NameInputPageSteps.php 
+  141  cd ..
+  142  ./bin/behat
+  143  pwd
+  144  cd ..
+  145  pwd
+  146  cd PHPBehat
+  147  LS
+  148  ls
+  149  cd features/
+  150  ls
+  151  cat example.feature 
+  152  cd ..
+  153  ./bin/behat
+  154  ls
+  155  cd features/
+  156  ls
+  157  cd bootstrap/
+  158  ls
+  159  vim FeatureContext.php 
+  160  cd ..
+  161  ls
+  162  pwd
+  163  cd ..
+  164  ./bin/behat
+  165  pwd
+  166  cd ..
+  167  cd PHPBehatPageObjectOld/
+  168  ls
+  169  /bin
+  170  ./bin/behat
+  171  pwd
+  172  cd ..
+  173  cd PHPBehat
+  174  ls
+  175  cd features/
+  176  ls
+  177  cat example.feature 
+  178  cd ..
+  179  ls
+  180  cd features/
+  181  ls
+  182  cd bootstrap/
+  183  ls
+  184  cat FeatureContext.php 
+  185  cd ..
+  186  pwd
+  187  cd ..
+  188  ./bin/behat 
+  189  ls
+  190  cd features/
+  191  ls
+  192  cd bootstrap/
+  193  ls
+  194  cd FeatureContext.php 
+  195  cat FeatureContext.php 
+  196  cd ..
+  197  pwd
+  198  cd ..
+  199  pwd
+  200  pwd
+  201  cd ..
+  202  ls
+  203  CD PHPBehatPageObjectOld/
+  204  LS
+  205  ls
+  206  mv PHPBehatPageObjectOld/ PHPBehatPageObject
+  207  pwd
+  208  ls
+  209  cd PHPLanguageExamplesClassesEtc/
+  210  ls
+  211  php Main.php 
+  212  php Main.php 
+  213  php Main.php 
+  214  pwd
+  215  cd ..
+  216  cd PHPBehatPageObject
+  217  ./bin/behat 
+  218  ./bin/behat 
+  219  ./bin/behat 
+  220  ./bin/behat 
+  221  ./bin/behat 
+  222  ./bin/behat 
+  223  ./bin/behat 
+  224  ./bin/behat 
+  225  ./bin/behat 
+  226  ./bin/behat 
+  227  ./bin/behat 
+  228  ./bin/behat 
+  229  ./bin/behat 
+  230  pwd
+  231  java -jar selenium-server-standalone-2.53.0.jar 
+  232  java -jar selenium-server-standalone-2.53.0.jar  &
+  233  ./bin/behat 
+  234  pwd
+  235  cd ..
+  236  ls PHP*
+  237  CD PHPExamplesBehatHelloWorld_Old/
+  238  PWD
+  239  pwe
+  240  cd PHPExamplesBehatHelloWorld_Old/
+  241  ./bin/behat 
+  242  cd ..
+  243  cd PHPBehatPageObject
+  244  ./bin/behat 
+  245  ./bin/behat 
+  246  pwd
+  247  ps
+  248  cd ..
+  249  PHPBehat
+  250  cd PHPBehat
+  251  ls
+  252  ./bin/behat 
+  253  java -jar selenium-server-standalone-2.53.0.jar  &
+  254  ./bin/behat 
+  255  ls
+  256  cat behat.yml 
+  257  cd composer.json 
+  258  cat composer.json 
+  259  pwd
+  260  cd ..
+  261  ls
+  262  pwd
+  263  cd PHPBehatPageObjectOld/
+  264  LS
+  265  ls
+  266  ls
+  267  cd ..
+  268  pwd
+  269  cd PHPExamplesBehatHelloWorld_Old/
+  270  ls
+  271  ./bin/behat 
+  272  ./bin/behat 
+  273  cd ..
+  274  ls
+  275  cd PHPBehat
+  276  ./bin/behat 
+  277  cd ..
+  278  cd PHPBehatPageObject/
+  279  ./bin/behat 
+  280  ./bin/behat 
+  281  ./bin/behat 
+  282  ./bin/behat 
+  283  ./bin/behat 
+  284  ls
+  285  vim behat.yml 
+  286  ./bin/behat 
+  287  ./bin/behat 
+  288  ./bin/behat 
+  289  ./bin/behat 
+  290  ./bin/behat 
+  291  ./bin/behat 
+  292  ./bin/behat 
+  293  ./bin/behat 
+  294  ./bin/behat 
+  295  vim composer.json
+  296  pwd
+  297  vim composer.json
+  298  composer update
+  299  vim composer.json
+  300  composer update
+  301  python
+  302  php -version
+  303  which php
+  304  which apachectl
+  305  apachectl -V
+  306  which apachectl
+  307  pwd
+  308  pwd
+  309  pwd
+  310  ls
+  311  cd bin
+  312  ls
+  313  cd ..
+  314  pwd
+  315  pwd
+  316  ls
+  317  cd ..
+  318  ls
+  319  cd PHPBehatSeleniumExamples
+  320  ls
+  321  mv selenium-server-standalone-2.53.0.jar ../PHPBehatSeleniumExamples2
+  322  cd ..
+  323  rm -fr PHPBehatSeleniumExamples
+  324  ls
+  325  cd PHPExamples2/
+  326  LS
+  327  ls
+  328  ls
+  329  pwd
+  330  cd ..
+  331  rmdir PHPExamples2/
+  332  cd PHPExamples2/
+  333  ls -al
+  334  rm .idea
+  335  cd ..
+  336  rm -fr PHPExamples2/
+  337  ls
+  338  cd /usr/local
+  339  ls
+  340  cd tomcat
+  341  ls
+  342  cd webapps/
+  343  ls
+  344  cd docs
+  345  ls
+  346  cd ..
+  347  ls
+  348  cd examples/
+  349  ls
+  350  cd ..
+  351  ls
+  352  cd
+  353  cd /Library/WebServer/
+  354  ls
+  355  cd Documents/
+  356  ls
+  357  ls -al
+  358  cat index.html.en 
+  359  vim php_example.php
+  360  sudo vim php_example.php
+  361  ls
+  362  sudo vim php_example.php
+  363  sudo vim php_example.php
+  364  sudo vim php_example.php
+  365  sudo vim php_example.php
+  366  sudo vim php_example.php
+  367  sudo vim php_example_old.php
+  368  pwd
+  369  sudo vim php_example.php
+  370  sudo vim form_submit.php
+  371  sudo vim php_example.php
+  372  sudo vim form_submit.php
+  373  pwd
+  374  cd
+  375  cd /Library/WebServer/Documents/
+  376  ls
+  377  vim form_submit.php 
+  378  vim index.html.en 
+  379  vim php_example.php
+  380  sudo vim php_example.php
+  381  apachectl stop
+  382  sudo apachectl stop
+  383  sudo apachectl start
+  384  ls
+  385  pwd
+  386  ls
+  387  pwd
+  388  ls
+  389  rm php_example_old.php 
+  390  sudo rm php_example_old.php 
+  391  ls
+  392  cp *.php ~pgrandje/Projects/PHPHtmlFormExample/
+  393  cd Projects/
+  394  ls
+  395  cd PHPBehatPageObject/
+  396  ./bin/behat
+  397  ./bin/behat
+  398  ./bin/behat
+  399  ./bin/behat
+  400  ./bin/behat
+  401  ./bin/behat
+  402  ./bin/behat
+  403  ./bin/behat
+  404  ./bin/behat
+  405  ./bin/behat
+  406  ./bin/behat
+  407  ./bin/behat
+  408  ./bin/behat
+  409  ./bin/behat
+  410  ./bin/behat
+  411  ./bin/behat
+  412  ./bin/behat
+  413  ./bin/behat
+  414  ./bin/behat
+  415  ./bin/behat
+  416  ./bin/behat
+  417  ./bin/behat
+  418  ./bin/behat
+  419  ./bin/behat
+  420  ./bin/behat
+  421  ./bin/behat
+  422  ./bin/behat
+  423  ./bin/behat
+  424  ./bin/behat
+  425  ./bin/behat
+  426  ./bin/behat
+  427  ./bin/behat
+  428  ./bin/behat
+  429  ./bin/behat
+  430  ./bin/behat
+  431  ./bin/behat
+  432  pwd
+  433  cd ..
+  434  ls
+  435  cd PHPHtmlFormExample/
+  436  ls
+  437  rm *
+  438  ls
+  439  pwd
+  440  java -version
+  441  ls
+  442  pwd
+  443  ls
+  444  cd bin
+  445  ls
+  446  ./runTomcatAsNobodyUser &
+  447  cat ./runTomcatAsNobodyUser 
+  448  ps -a
+  449  ls
+  450  cd /usr/bin
+  451  ls
+  452  cd /usr/local
+  453  ls
+  454  cd bin
+  455  ls
+  456  cd ..
+  457  cd apache-tomcat-7.0.6/
+  458  ls
+  459  cd bin
+  460  ls
+  461  cat ./shutdown.bat 
+  462  ls
+  463  ./shutdown.sh 
+  464  sudo ./shutdown.sh 
+  465  whoami
+  466  ls
+  467  cd
+  468  ls
+  469  ls -al
+  470  cat .profile
+  471  pwd
+  472  ls
+  473  ps -A
+  474  ps -A | grep apache
+  475  ps -A | grep apache
+  476  ps -A | grep tomcat
+  477  ps -a
+  478  which apachectl
+  479  apachectl stop
+  480  sudo apachectl stop
+  481  apachectl status
+  482  /Applications/MAMP/Library/bin/apachectl start
+  483  /Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/bin/java ; exit;
+  484  sudo hostname pgmac
+  485  hostname
+  486  hostname
+  487  cd /etc
+  488  ls
+  489  vim hosts
+  490  vim hostconfig 
+  491  vim hosts.equiv 
+  492  cd
+  493  cd Projects/NodeJS/
+  494  /usr/local/bin/node GettingStarted.js 
+  495  /usr/local/bin/node --inspect GettingStarted.js 
+  496  pwd
+  497  npm install cypress
+  498  ls
+  499  ls -al
+  500  pwd
+  501  cd Projects/
+  502  ls
+  503  ls
+  504  cd NodeJsNightwatch/
+  505  ls
+  506  pwd
+  507  mv /Users/pgrandje/Downloads/selenium-server-standalone-3.14.0.jar .
+  508  npm install nightwatch
+  509  npm audit fix
+  510  ls
+  511  java -v
+  512  java -version
+  513  npm install nightwatch
+  514  npm init
+  515  npm install nightwatch
+  516  /audit
+  517  npm audit 
+  518  npm install nightwatch@1.0.11
+  519  history
+  520  history > NWInstallHistory

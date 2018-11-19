@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="2"
+            tests="1">
+
+  <testsuite name="DemoGoogleTest"
+    errors="0" failures="2" hostname="" id="" package="DemoGoogleTest" skipped="0"
+    tests="1" time="6.517" timestamp="">
+  
+    <testcase name="Demo Test Google" classname="DemoGoogleTest" time="6.517" assertions="3">
+
+      <failure message="Timed out while waiting for element &lt;button[name=btnG]&gt; to be present for 1000 milliseconds. - expected [0;32m&#34;visible&#34;[0m but got: [0;31m&#34;not found&#34;[0m">    at Object.Demo Test Google (/Users/pgrandje/Projects/NodeJsNightwatch/tests/DemoGoogleTest.js:7:8)
+    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:189:7)</failure>
+
+      <failure message="Testing if element &lt;#main&gt; contains text: &#34;Night Watch&#34; in 1000 ms. - expected [0;32m&#34;Night Watch&#34;[0m but got: [0;31m&#34;New! Meet the Google Pixel 3. Now available at the Google Store
+PrivacyTermsSettings
+AdvertisingBusiness&#34;[0m">    at Object.Demo Test Google (/Users/pgrandje/Projects/NodeJsNightwatch/tests/DemoGoogleTest.js:10:15)
+    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:189:7)</failure>
+
+    <failure message="    at Object.Demo Test Google (/Users/pgrandje/Projects/NodeJsNightwatch/tests/DemoGoogleTest.js:10:15)">    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:189:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
